@@ -18,7 +18,6 @@ Integration demonstrations and proof-of-capability showcases.
 
 - Production code (use product-specific repos)
 - Customer deployment guides (use docs or product repos)
-- Any Net4Connect / Net4 information or data
 
 ## Related repos
 
@@ -30,7 +29,7 @@ Integration demonstrations and proof-of-capability showcases.
 
 ## Important
 
-**This is a SIMSY-only environment.** Do not add any Net4Connect / Net4 information or data to this repository unless specifically instructed by Alex.
+**This is a SIMSY-only environment.**
 
 ## Contributing
 
